@@ -1,4 +1,4 @@
-# Tripal API Library
+# Stacks summarize
 
 A Python script to generate html reports for [Stacks](http://catchenlab.life.illinois.edu/stacks/) results
 
