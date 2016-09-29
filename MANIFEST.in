@@ -1,1 +1,1 @@
-include stacks_summary_tpl.html
+include stacks/stacks_summary_tpl.html
