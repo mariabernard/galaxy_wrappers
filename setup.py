@@ -5,7 +5,7 @@ from os import listdir
 
 setup(
     name="stacks_summary",
-    version='1.0',
+    version='1.1',
     description="Stacks reports generator",
     author="Maria Bernard",
     author_email="maria.bernard@inra.fr",
