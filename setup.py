@@ -26,6 +26,6 @@ setup(
         "Programming Language :: Python :: 2.7"
     ],
     package_data={
-        'stacks_summary': ['*.html']
+        'stacks_summary': ['stacks/*.html']
     },
 )
