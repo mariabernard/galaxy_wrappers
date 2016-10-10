@@ -25,8 +25,5 @@ setup(
         "Programming Language :: Python :: 2.6",
         "Programming Language :: Python :: 2.7"
     ],
-    package_dir={'stacks_summary': 'stacks'},
-    package_data={
-        'stacks_summary': ['*.html']
-    },
+    include_package_data = True,
 )
